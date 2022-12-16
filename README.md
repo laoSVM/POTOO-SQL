@@ -1,4 +1,3 @@
-# POTOO-SQL
 
 # Data Quality Table
 
