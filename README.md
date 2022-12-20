@@ -5,7 +5,7 @@
 |--------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------------------|------------|------------|-----------|
 |1.How many ASINs are in the Breath Fresheners category?                                                             |191              |265     |193                |250         |245         |199        |
 |2.Aggregate the data by Date and ASIN. How many Date & ASIN instances are  there?                                   |5068             |2694    |5055               |3087        |3351        |5002       |
-|3.For  each Date & ASIN combination, how many have Amazon as a seller?                                              |920              |1891    |1438               |2108        |2169        |2558       |
+|3.For each Date & ASIN combination, how many have Amazon as a seller?                                               |920              |1891    |1438               |2108        |2169        |2558       |
 |4.For each Date & ASIN combination, how many have Inventory = 999?                                                  |551              |1345    |1285               |1732        |987         |857        |
 |5.For each Date & ASIN combination, how many have Purchase Limit = True?                                            |292              |127     |637                |204         |35          |481        |
 |6.For each Date & ASIN combination, how many have all three issues listed above?                                    |31               |42      |25                 |76          |4           |16         |
