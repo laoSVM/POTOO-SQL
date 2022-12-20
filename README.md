@@ -4,7 +4,7 @@ We focused on improving inventory visibility for the company. The company had lo
 
 To do this, we first filtered and cleaned the data using a data quality table as guidance. We then used SQL queries to extract the relevant information from the data. Finally, we built a data dashboard to display the information in an easily digestible format.
 
-[SQL Code](DataTransformation.sql)
+[SQL Code](Data_Transformation.sql)
 
 # Data Quality Table
 
