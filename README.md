@@ -1,3 +1,8 @@
+# Introduction
+
+We focused on improving inventory visibility for the company. The company had lost visibility on inventory in three specific conditions.
+
+To do this, we first filtered and cleaned the data using a data quality table as guidance. We then used SQL queries to extract the relevant information from the data. Finally, we built a data dashboard to display the information in an easily digestible format.
 
 # Data Quality Table
 
